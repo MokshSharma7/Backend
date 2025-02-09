@@ -71,7 +71,7 @@ where students can buy and sell items.
 
 ## 👥 Contributors
 - **Moksh Sharma** (@MokshSharma7)
-- **Samkit Jain ** (@GitHubHandle)
+- **Samkit Jain ** (@samkitjain2006)
 - **Madhav Singhla** (@GitHubHandle)
 - **Mayank Verma** (@GitHubHandle)
 
