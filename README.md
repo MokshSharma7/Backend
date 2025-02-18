@@ -1,7 +1,7 @@
-============================================================FossHack-2025==========================================================================
+===============================================FossHack-2025============================================
 
-                                  Pitstop Web Application for College Students with AI Integration
-                                                   [https://roamai.zapier.app/]
+                        Pitstop Web Application for College Students with AI Integration
+                                        [https://roamai.zapier.app/]
 
 My College Life:
 -----------------------
@@ -11,8 +11,7 @@ My College Life is a revolutionary web application designed to simplify and enha
 
 This platform is not just a tool but a companion that adapts to your needs, offering personalized recommendations, actionable insights, and seamless functionality. From building a professional academic portfolio to planning your next adventure with an AI travel agent, My College Life ensures you make the most of your college years.
 
-===================================================================================================================================================
-
+========================================================================================================
 🚀 Key Features
 -----------------------
 
@@ -33,6 +32,8 @@ This platform is not just a tool but a companion that adapts to your needs, offe
 
 6. User Authentication
 🔒 A secure login and registration system ensures your data is protected. Focus on your goals while we take care of your privacy.
+
+========================================================================================================
 
 🛠️ Tech Stack:
 
@@ -55,6 +56,7 @@ bcrypt.js (for password hashing)
 
 Deployment
 
+========================================================================================================
 
 👥 Contributors
 Moksh Sharma (@MokshSharma7)
@@ -64,6 +66,8 @@ Samkit Jain (@samkitjain2006)
 Madhav Singla (@blackhat02dotcom)
 
 Mayank Verma (@Mayank-vermaa)
+
+=============================================================================================
 
 
 🔗 Useful Links
@@ -79,9 +83,12 @@ OpenAI API Documentation
 
 GitHub Repository
 
+========================================================================================================
 
 📜 License
 This project is open-source and available under the MIT License.
+
+========================================================================================================
 
 📧 Contact
 For inquiries, feedback, or collaboration opportunities, feel free to reach out:
