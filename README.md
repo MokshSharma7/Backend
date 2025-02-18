@@ -12,7 +12,7 @@ My College Life is a revolutionary web application designed to simplify and enha
 This platform is not just a tool but a companion that adapts to your needs, offering personalized recommendations, actionable insights, and seamless functionality. From building a professional academic portfolio to planning your next adventure with an AI travel agent, My College Life ensures you make the most of your college years.
 
 ===========================================================
------------------------
+
 
 1. AI-Powered Travel Agent
 🌍 Plan your trips effortlessly with an AI-driven travel assistant. Get personalized recommendations for budget-friendly travel options, local attractions, and itineraries tailored to your preferences. Whether it's a weekend getaway or a study-abroad plan, this feature has you covered.
@@ -33,6 +33,7 @@ This platform is not just a tool but a companion that adapts to your needs, offe
 🔒 A secure login and registration system ensures your data is protected. Focus on your goals while we take care of your privacy.
 
 ===========================================================
+
 🛠️ Tech Stack:
 
 Frontend:
@@ -55,6 +56,8 @@ bcrypt.js (for password hashing)
 Deployment
 
 ==============================================================
+
+
 👥 Contributors
 Moksh Sharma (@MokshSharma7)
 
@@ -81,10 +84,12 @@ OpenAI API Documentation
 GitHub Repository
 
 ==================================================================
+
 📜 License
 This project is open-source and available under the MIT License.
 
 ==================================================================
+
 📧 Contact
 For inquiries, feedback, or collaboration opportunities, feel free to reach out:
 
