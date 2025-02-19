@@ -1,5 +1,10 @@
  ================FossHack-2025====================
 
+===========PROTOTYPE========== 
+
+https://v0-my-college-life-sxmzdh.vercel.app/#features
+
+
  Pitstop Web Application for College Students with AI Integration
                                         [https://roamai.zapier.app/]
 
